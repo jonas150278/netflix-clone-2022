@@ -1,2 +1,2 @@
-# netflix-clone-2022
-Clone Netflix
+#Repositorio sobre o desafio de criação de uma pagina netflix-clone-2022
+Clone Netflix meu primeiro curso DIO.
